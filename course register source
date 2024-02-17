@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Regisiter</title>
+</head>
+<body>
+  <center>
+    <h1>
+        4G Silver Academy🚀
+    </h1>
+    <h5>Engineering students hero | Semester news | Fullstack </h5>
+    <p> Title: Engineering Staff AND Masters of Both Realms: The Role of Full Stack Developers</p>
+
+</center> 
+<hr>
+
+<center> 
+  <h1>Registraion Form</h1>
+  <form>
+    <table> 
+      <tr>
+        <td>Name:</td> <td> <input type="text" placeholder="Enter Your Name "></td>
+      </tr>
+      <tr>
+        <td>Age:</td> <td> <input type="number" placeholder="Enter your age"></td>
+      </tr>
+      <tr>
+        <td>Gender:</td> <td> <input type="radio" name="Gender">Male <input type="radio" name="Gender">female <input type="radio" name="Gender">others </td>
+      </tr>
+      <tr>
+        <td>Enter Your Email: </td> <td><input type="email" placeholder="Enter Your Email "> </td>
+      </tr>
+      <tr>
+        <td> Select a Course</td>
+        <td>
+          <select>
+            <option>Python</option>
+            <option>Java</option>
+            <option>JavaScript</option>
+            <option>Js react</option>
+          </select>
+        </td>
+      </tr>
+      <tr>
+        <td>Upload your resume</td>
+        <td> <input type="file"</td>
+      </tr>
+      <tr>
+        <td><input type="submit"></td>
+        <td><input type="reset"</td>
+      </tr>
+
+
+    </table>
+  </form>
+ <hr> <p>
+    <a href="4gsilver.html"> Home</a>
+    <a href="https://www.instagram.com/4g_silver_academy_official?igsh=bHVsa3llbTByanJ6"> | Instagram </a>
+    <a href="https://youtu.be/r4r_qE2fCs0?si=Z92mnuSRFKsUEiKR"> | Youtube</a>
+  </p>
+  
+</center>
+
+
+  
+</body>
+</html>
