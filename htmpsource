@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>4G silver </title>
+</head>
+<body> 
+    <center>
+        <h1>
+            4G Silver Academy🚀
+        </h1>
+        <h5>Engineering students hero | Semester news | Fullstack coures</h5>
+        <p> Title: Engineering Staff AND Masters of Both Realms: The Role of Full Stack Developers</p>
+
+    </center> 
+    <hr>
+    <center> 
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5QzzeYHApV0?si=Is-Bhi7PCVzCAwYR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </center>
+
+    <p>
+        Engineering staffs are the backbone of innovation, design, and problem-solving across various industries. They possess a diverse skill set, ranging from technical expertise to creative thinking. These professionals play pivotal roles in conceptualizing, designing, and executing projects, ensuring their functionality, safety, and efficiency. Collaboration among engineering staff fosters interdisciplinary approaches to complex challenges, promoting synergy and breakthroughs
+    </p>
+    <p>
+        Full stack development refers to proficiency in both front-end and back-end technologies, enabling developers to create complete web applications independently. These developers possess a comprehensive understanding of various programming languages, frameworks, and databases. On the front end, they craft intuitive user interfaces using HTML, CSS, and JavaScript, ensuring seamless interactions. Meanwhile, on the back end, they manage server-side logic, databases, and APIs, ensuring the application's functionality, security, and scalability
+    </p>
+    <h1>
+        LETS DIVIDE FULLSTACK INTO 3 PARTS
+    </h1>
+
+    <ul> 
+        <li> Front end</li>
+        <li>Back end</li>
+        <li>Database</li>
+    </ul>
+    <h2> <i> Technologies Used For Full Stack Development</i></h2>
+    
+<center>
+    <table border="1"> 
+        <tr> 
+            <td>Frontend</td> <td> Backend</td> <td>Database</td>
+        </tr>
+       
+        <tr> 
+            <td>HTML</td> <td>Java</td> <td>Mongo DB</td>
+        </tr>
+        
+        <tr>
+            <td>CSS </td> <td>Python</td> <td>MySQL</td>
+        </tr>
+       
+        <tr>
+            <td>JavaScript</td> <td>Node JS</td> <td>AWS</td>
+        </tr>
+    </table>
+</center> 
+<hr>
+<center>
+    <p> 
+        <a href="courseform.html">Regisiter for a course</a>
+        <a href="https://www.instagram.com/4g_silver_academy_official?igsh=bHVsa3llbTByanJ6"> | Instagram</a>
+        <a href="https://youtu.be/r4r_qE2fCs0?si=Z92mnuSRFKsUEiKR">| YoUtube</a>
+    </p>
+</center>
+
+
+         
+
+    
+</body>
+</html>
